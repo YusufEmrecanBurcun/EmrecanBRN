@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Emrecan BÜRÇÜN 👋</h1>
+<h1 align="center">Merhaba, ben Yusuf Emrecan BÜRÇÜN 👋</h1>
 
 <p align="center">
 🎓 Bilgisayar Mühendisliği Son Sınıf | 📊 Data Analysis & Machine Learning | 📍 Istanbul, Turkey
