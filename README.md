@@ -9,7 +9,7 @@
 ## 🙋‍♂️ Hakkımda
 - 🎓 Bilgisayar Mühendisliği mezuniyetine hazırlanıyorum (2026)
 - 📊 Veri analizi ve makine öğrenmesi üzerine projeler geliştiriyorum
-- 📈 Finans ve sağlık verisi alanlarında çalışmalar yapıyorum
+- 📈 Finans ve sağlık verisi alanlarında çalışmalar yaptım
 - 🗄️ SQL ile veri sorgulama ve analiz yapıyorum
 - 📊 Power BI ve Excel ile dashboard ve raporlar hazırlıyorum
 - 🌱 Şu an: Scikit-learn & TensorFlow üzerine çalışıyorum
