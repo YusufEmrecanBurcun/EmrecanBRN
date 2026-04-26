@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmrecanBRN&show_icons=true&theme=dark&custom_title=Yusuf%20Emrecan%20B%C3%9CR%C3%87%C3%9CN%27s%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufEmrecanBurcun&show_icons=true&theme=dark&custom_title=Yusuf%20Emrecan%20B%C3%9CR%C3%87%C3%9CN%27s%20GitHub%20Stats" />
 </p>
