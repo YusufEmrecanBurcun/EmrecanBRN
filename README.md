@@ -33,8 +33,8 @@
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [📈 Borsa Veri Analizi](https://github.com/EmrecanBRN/borsa-veri-analizi) | Apple & Big Tech hisse senedi analizi (2024) | Python, Pandas, Matplotlib, yfinance |
-| [🏥 Kalp Hastalığı Tahmini](https://github.com/EmrecanBRN/kalp-hastaligi-ml) | Kalp hastası tahmini - Random Forest - %98.54 doğruluk | Python, Scikit-learn, Seaborn |
+| [📈 Borsa Veri Analizi](https://github.com/YusufEmrecanBurcun/borsa-veri-analizi) | Apple & Big Tech hisse senedi analizi (2024) | Python, Pandas, Matplotlib, yfinance |
+| [🏥 Kalp Hastalığı Tahmini](https://github.com/YusufEmrecanBurcun/kalp-hastaligi-ml) | Kalp hastası tahmini - Random Forest - %98.54 doğruluk | Python, Scikit-learn, Seaborn |
 
 ---
 
