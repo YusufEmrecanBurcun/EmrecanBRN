@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Yusuf Emrecan BÜRÇÜN 👋</h1>
+# Merhaba, ben Yusuf Emrecan BÜRÇÜN 👋
 
 <p align="center">
 🎓 Bilgisayar Mühendisliği Son Sınıf | 📊 Data Analysis & Machine Learning | 📍 Istanbul, Turkey
@@ -10,6 +10,8 @@
 - 🎓 Bilgisayar Mühendisliği mezuniyetine hazırlanıyorum (2026)
 - 📊 Veri analizi ve makine öğrenmesi üzerine projeler geliştiriyorum
 - 📈 Finans ve sağlık verisi alanlarında çalışmalar yapıyorum
+- 🗄️ SQL ile veri sorgulama ve analiz yapıyorum
+- 📊 Power BI ve Excel ile dashboard ve raporlar hazırlıyorum
 - 🌱 Şu an: Scikit-learn & TensorFlow üzerine çalışıyorum
 
 ---
@@ -35,9 +37,12 @@
 |-------|----------|--------------|
 | [📈 Borsa Veri Analizi](https://github.com/YusufEmrecanBurcun/borsa-veri-analizi) | Apple & Big Tech hisse senedi analizi (2024) | Python, Pandas, Matplotlib, yfinance |
 | [🏥 Kalp Hastalığı Tahmini](https://github.com/YusufEmrecanBurcun/kalp-hastaligi-ml) | Kalp hastası tahmini - Random Forest - %98.54 doğruluk | Python, Scikit-learn, Seaborn |
+| 🗄️ SQL Veri Analizi | E-ticaret satış verisi analizi (yakında) | SQL, MySQL |
+| 📊 Power BI Dashboard | Satış & performans dashboard (yakında) | Power BI |
+| 📗 Excel Analizi | İş verisi analizi & raporlama (yakında) | Excel |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufEmrecanBurcun&show_icons=true&theme=dark&custom_title=Yusuf%20Emrecan%20B%C3%9CR%C3%87%C3%9CN%27s%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufEmrecanBurcun&show_icons=true&theme=dark&custom_title=Yusuf+Emrecan+BÜRÇÜN's+GitHub+Stats" />
 </p>
