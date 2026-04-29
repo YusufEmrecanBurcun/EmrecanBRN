@@ -39,7 +39,7 @@
 | [🏥 Kalp Hastalığı Tahmini](https://github.com/YusufEmrecanBurcun/kalp-hastaligi-ml) | Kalp hastası tahmini - Random Forest - %98.54 doğruluk | Python, Scikit-learn, Seaborn |
 | [🗄️ Northwind SQL Analizi](https://github.com/YusufEmrecanBurcun/northwind-sql-analizi) | Northwind veritabanı satış analizi - MySQL & T-SQL | SQL, T-SQL |
 | [📊 Power BI Dashboard](https://github.com/YusufEmrecanBurcun/superstore-powerbi-dashboard) | Global Superstore satış dashboard | Power BI |
-| [📗 Excel Analizi](https://github.com/YusufEmrecanBurcun/ibm-hr-excel-analizi) |  IBM HR Analytics —  Çalışan Ayrılma Analizi | Excel |
+| [📗 Excel Analizi](https://github.com/YusufEmrecanBurcun/ibm-hr-excel-analizi) |  IBM HR Analytics  | Excel |
 
 ---
 
