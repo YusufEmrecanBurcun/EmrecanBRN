@@ -38,7 +38,7 @@
 | [📈 Borsa Veri Analizi](https://github.com/YusufEmrecanBurcun/borsa-veri-analizi) | Apple & Big Tech hisse senedi analizi (2024) | Python, Pandas, Matplotlib, yfinance |
 | [🏥 Kalp Hastalığı Tahmini](https://github.com/YusufEmrecanBurcun/kalp-hastaligi-ml) | Kalp hastası tahmini - Random Forest - %98.54 doğruluk | Python, Scikit-learn, Seaborn |
 | [🗄️ Northwind SQL Analizi](https://github.com/YusufEmrecanBurcun/northwind-sql-analizi) | Northwind veritabanı satış analizi - MySQL & T-SQL | SQL, T-SQL |
-| 📊 Power BI Dashboard | Satış & performans dashboard (yakında) | Power BI |
+| [📊 Power BI Dashboard](https://github.com/YusufEmrecanBurcun/superstore-powerbi-dashboard) | Global Superstore satış dashboard | Power BI |
 | 📗 Excel Analizi | İş verisi analizi & raporlama (yakında) | Excel |
 
 ---
