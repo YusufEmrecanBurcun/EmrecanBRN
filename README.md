@@ -43,6 +43,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufEmrecanBurcun&show_icons=true&theme=dark&custom_title=Yusuf+Emrecan+BÜRÇÜN's+GitHub+Stats" />
-</p>
